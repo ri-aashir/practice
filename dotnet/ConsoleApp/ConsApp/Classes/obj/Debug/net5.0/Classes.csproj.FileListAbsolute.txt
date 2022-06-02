@@ -1,0 +1,16 @@
+C:\Users\aashir\source\repos\Consapp\Classes\bin\Debug\net5.0\Classes.exe
+C:\Users\aashir\source\repos\Consapp\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\Users\aashir\source\repos\Consapp\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\Users\aashir\source\repos\Consapp\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\Users\aashir\source\repos\Consapp\Classes\bin\Debug\net5.0\Classes.dll
+C:\Users\aashir\source\repos\Consapp\Classes\bin\Debug\net5.0\ref\Classes.dll
+C:\Users\aashir\source\repos\Consapp\Classes\bin\Debug\net5.0\Classes.pdb
+C:\Users\aashir\source\repos\Consapp\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+C:\Users\aashir\source\repos\Consapp\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashir\source\repos\Consapp\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\Users\aashir\source\repos\Consapp\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\Users\aashir\source\repos\Consapp\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\aashir\source\repos\Consapp\Classes\obj\Debug\net5.0\Classes.dll
+C:\Users\aashir\source\repos\Consapp\Classes\obj\Debug\net5.0\ref\Classes.dll
+C:\Users\aashir\source\repos\Consapp\Classes\obj\Debug\net5.0\Classes.pdb
+C:\Users\aashir\source\repos\Consapp\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache

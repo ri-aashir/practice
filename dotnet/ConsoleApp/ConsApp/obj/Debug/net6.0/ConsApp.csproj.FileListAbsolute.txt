@@ -1,0 +1,15 @@
+C:\Users\aashir\Desktop\-\consapp\bin\Debug\net6.0\ConsApp.exe
+C:\Users\aashir\Desktop\-\consapp\bin\Debug\net6.0\ConsApp.deps.json
+C:\Users\aashir\Desktop\-\consapp\bin\Debug\net6.0\ConsApp.runtimeconfig.json
+C:\Users\aashir\Desktop\-\consapp\bin\Debug\net6.0\ConsApp.dll
+C:\Users\aashir\Desktop\-\consapp\bin\Debug\net6.0\ref\ConsApp.dll
+C:\Users\aashir\Desktop\-\consapp\bin\Debug\net6.0\ConsApp.pdb
+C:\Users\aashir\Desktop\-\consapp\obj\Debug\net6.0\ConsApp.csproj.AssemblyReference.cache
+C:\Users\aashir\Desktop\-\consapp\obj\Debug\net6.0\ConsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashir\Desktop\-\consapp\obj\Debug\net6.0\ConsApp.AssemblyInfoInputs.cache
+C:\Users\aashir\Desktop\-\consapp\obj\Debug\net6.0\ConsApp.AssemblyInfo.cs
+C:\Users\aashir\Desktop\-\consapp\obj\Debug\net6.0\ConsApp.csproj.CoreCompileInputs.cache
+C:\Users\aashir\Desktop\-\consapp\obj\Debug\net6.0\ConsApp.dll
+C:\Users\aashir\Desktop\-\consapp\obj\Debug\net6.0\ref\ConsApp.dll
+C:\Users\aashir\Desktop\-\consapp\obj\Debug\net6.0\ConsApp.pdb
+C:\Users\aashir\Desktop\-\consapp\obj\Debug\net6.0\ConsApp.genruntimeconfig.cache

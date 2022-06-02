@@ -1,0 +1,54 @@
+C:\Users\aashir\Desktop\-\TodoApi\obj\Debug\net6.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\aashir\Desktop\-\TodoApi\obj\Debug\net6.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashir\Desktop\-\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\aashir\Desktop\-\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfo.cs
+C:\Users\aashir\Desktop\-\TodoApi\obj\Debug\net6.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\aashir\Desktop\-\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aashir\Desktop\-\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\appsettings.json
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\TodoApi.exe
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\TodoApi.deps.json
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\TodoApi.runtimeconfig.json
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\TodoApi.dll
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\ref\TodoApi.dll
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\TodoApi.pdb
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aashir\Desktop\-\todoapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aashir\Desktop\-\todoapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aashir\Desktop\-\todoapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aashir\Desktop\-\todoapi\obj\Debug\net6.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\aashir\Desktop\-\todoapi\obj\Debug\net6.0\TodoApi.csproj.CopyComplete
+C:\Users\aashir\Desktop\-\todoapi\obj\Debug\net6.0\TodoApi.dll
+C:\Users\aashir\Desktop\-\todoapi\obj\Debug\net6.0\ref\TodoApi.dll
+C:\Users\aashir\Desktop\-\todoapi\obj\Debug\net6.0\TodoApi.pdb
+C:\Users\aashir\Desktop\-\todoapi\obj\Debug\net6.0\TodoApi.genruntimeconfig.cache
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\appsettings.json
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\TodoApi.exe
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\TodoApi.deps.json
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\TodoApi.runtimeconfig.json
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\TodoApi.dll
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\ref\TodoApi.dll
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\TodoApi.pdb
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\TodoApi.AssemblyInfo.cs
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\TodoApi.csproj.CopyComplete
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\TodoApi.dll
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\ref\TodoApi.dll
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\TodoApi.pdb
+C:\Users\ridwan ashir\source\repos\Practice\dotnet\WebApi\TodoApi 6.0\obj\Debug\net6.0\TodoApi.genruntimeconfig.cache

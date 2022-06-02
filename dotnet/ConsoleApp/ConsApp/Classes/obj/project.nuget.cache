@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2Go+Nr46o3jk6gDmq1Rl0D3GrTW5Mp8mcgx0ikXcfniYATIXuB9K0HDY3349l8TfixPHQ7eUYAPS2hPQwdKrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aashir\\source\\repos\\Consapp\\Classes\\Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aashir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

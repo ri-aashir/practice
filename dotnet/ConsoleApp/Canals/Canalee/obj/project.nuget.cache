@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJIIhYFz2tqbGrWJLi7h206NQ5eNqXxO2SZ/Phb2lf5p7XCIYy+2SpeEWjpfglxGRRZbzq2JiB5yjd+ujEWL+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aashir\\source\\repos\\Canals\\Canalee\\Canalee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aashir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

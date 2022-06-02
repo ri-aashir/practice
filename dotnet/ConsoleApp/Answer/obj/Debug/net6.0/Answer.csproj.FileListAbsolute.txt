@@ -1,0 +1,15 @@
+C:\Users\aashir\Desktop\-\answer\bin\Debug\net6.0\Answer.exe
+C:\Users\aashir\Desktop\-\answer\bin\Debug\net6.0\Answer.deps.json
+C:\Users\aashir\Desktop\-\answer\bin\Debug\net6.0\Answer.runtimeconfig.json
+C:\Users\aashir\Desktop\-\answer\bin\Debug\net6.0\Answer.dll
+C:\Users\aashir\Desktop\-\answer\bin\Debug\net6.0\ref\Answer.dll
+C:\Users\aashir\Desktop\-\answer\bin\Debug\net6.0\Answer.pdb
+C:\Users\aashir\Desktop\-\answer\obj\Debug\net6.0\Answer.csproj.AssemblyReference.cache
+C:\Users\aashir\Desktop\-\answer\obj\Debug\net6.0\Answer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashir\Desktop\-\answer\obj\Debug\net6.0\Answer.AssemblyInfoInputs.cache
+C:\Users\aashir\Desktop\-\answer\obj\Debug\net6.0\Answer.AssemblyInfo.cs
+C:\Users\aashir\Desktop\-\answer\obj\Debug\net6.0\Answer.csproj.CoreCompileInputs.cache
+C:\Users\aashir\Desktop\-\answer\obj\Debug\net6.0\Answer.dll
+C:\Users\aashir\Desktop\-\answer\obj\Debug\net6.0\ref\Answer.dll
+C:\Users\aashir\Desktop\-\answer\obj\Debug\net6.0\Answer.pdb
+C:\Users\aashir\Desktop\-\answer\obj\Debug\net6.0\Answer.genruntimeconfig.cache

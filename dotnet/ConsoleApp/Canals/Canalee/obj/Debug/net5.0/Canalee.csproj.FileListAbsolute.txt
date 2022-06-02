@@ -1,0 +1,16 @@
+C:\Users\aashir\source\repos\Canals\Canalee\bin\Debug\net5.0\Canalee.exe
+C:\Users\aashir\source\repos\Canals\Canalee\bin\Debug\net5.0\Canalee.deps.json
+C:\Users\aashir\source\repos\Canals\Canalee\bin\Debug\net5.0\Canalee.runtimeconfig.json
+C:\Users\aashir\source\repos\Canals\Canalee\bin\Debug\net5.0\Canalee.runtimeconfig.dev.json
+C:\Users\aashir\source\repos\Canals\Canalee\bin\Debug\net5.0\Canalee.dll
+C:\Users\aashir\source\repos\Canals\Canalee\bin\Debug\net5.0\ref\Canalee.dll
+C:\Users\aashir\source\repos\Canals\Canalee\bin\Debug\net5.0\Canalee.pdb
+C:\Users\aashir\source\repos\Canals\Canalee\obj\Debug\net5.0\Canalee.csproj.AssemblyReference.cache
+C:\Users\aashir\source\repos\Canals\Canalee\obj\Debug\net5.0\Canalee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashir\source\repos\Canals\Canalee\obj\Debug\net5.0\Canalee.AssemblyInfoInputs.cache
+C:\Users\aashir\source\repos\Canals\Canalee\obj\Debug\net5.0\Canalee.AssemblyInfo.cs
+C:\Users\aashir\source\repos\Canals\Canalee\obj\Debug\net5.0\Canalee.csproj.CoreCompileInputs.cache
+C:\Users\aashir\source\repos\Canals\Canalee\obj\Debug\net5.0\Canalee.dll
+C:\Users\aashir\source\repos\Canals\Canalee\obj\Debug\net5.0\ref\Canalee.dll
+C:\Users\aashir\source\repos\Canals\Canalee\obj\Debug\net5.0\Canalee.pdb
+C:\Users\aashir\source\repos\Canals\Canalee\obj\Debug\net5.0\Canalee.genruntimeconfig.cache
