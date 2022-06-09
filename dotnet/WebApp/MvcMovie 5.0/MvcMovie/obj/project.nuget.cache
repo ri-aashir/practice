@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nLVXomynmAawzb2+z+CfycuSM3Wo1NLVDw81ReLDvzyRNyNj+3chwNJ2vh6QPcNDGFt14Fd6xKCairZXMnvlZg==",
+  "dgSpecHash": "JUkmNGjF5q3g5xMP/VsuyN+vRGgW3+y6wJgsgBQ/ApePDhF4QE8YYC1gSmtHLWoCE1VToXJrVHHLWjq8TTThng==",
   "success": true,
   "projectFilePath": "C:\\Users\\ridwan ashir\\Desktop\\Practice\\dotnet\\WebApp\\MvcMovie 5.0\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
@@ -128,10 +128,10 @@
     "C:\\Users\\ridwan ashir\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\ridwan ashir\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\ridwan ashir\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\ridwan ashir\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\ridwan ashir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ridwan ashir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
     "C:\\Users\\ridwan ashir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\ridwan ashir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\ridwan ashir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ridwan ashir\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
