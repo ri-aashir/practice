@@ -1,0 +1,16 @@
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\bin\Debug\net5.0\Linqs.exe
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\bin\Debug\net5.0\Linqs.deps.json
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\bin\Debug\net5.0\Linqs.runtimeconfig.json
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\bin\Debug\net5.0\Linqs.runtimeconfig.dev.json
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\bin\Debug\net5.0\Linqs.dll
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\bin\Debug\net5.0\Linqs.pdb
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\obj\Debug\net5.0\Linqs.csproj.AssemblyReference.cache
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\obj\Debug\net5.0\Linqs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\obj\Debug\net5.0\Linqs.AssemblyInfoInputs.cache
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\obj\Debug\net5.0\Linqs.AssemblyInfo.cs
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\obj\Debug\net5.0\Linqs.csproj.CoreCompileInputs.cache
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\obj\Debug\net5.0\Linqs.dll
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\obj\Debug\net5.0\refint\Linqs.dll
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\obj\Debug\net5.0\Linqs.pdb
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\obj\Debug\net5.0\Linqs.genruntimeconfig.cache
+C:\Users\ridwan ashir\Desktop\Practice\dotnet\ConsoleApp\Linqs\obj\Debug\net5.0\ref\Linqs.dll
