@@ -1,2 +1,2 @@
 # practice
-this repo contains my tutorial practices
+this repo contains my personal works
