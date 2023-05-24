@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 #nullable enable
 
 namespace MvcMovie.Models
-{
+{ 
     public class Movie
     {
         public int Id { get; set; }

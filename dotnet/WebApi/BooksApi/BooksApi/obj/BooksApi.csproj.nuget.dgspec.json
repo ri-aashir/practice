@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aashir\\source\\repos\\BooksApi\\BooksApi\\BooksApi.csproj": {}
+    "C:\\Users\\ridwan ashir\\Desktop\\Practice\\dotnet\\WebApi\\BooksApi\\BooksApi\\BooksApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aashir\\source\\repos\\BooksApi\\BooksApi\\BooksApi.csproj": {
+    "C:\\Users\\ridwan ashir\\Desktop\\Practice\\dotnet\\WebApi\\BooksApi\\BooksApi\\BooksApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aashir\\source\\repos\\BooksApi\\BooksApi\\BooksApi.csproj",
+        "projectUniqueName": "C:\\Users\\ridwan ashir\\Desktop\\Practice\\dotnet\\WebApi\\BooksApi\\BooksApi\\BooksApi.csproj",
         "projectName": "BooksApi",
-        "projectPath": "C:\\Users\\aashir\\source\\repos\\BooksApi\\BooksApi\\BooksApi.csproj",
-        "packagesPath": "C:\\Users\\aashir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aashir\\source\\repos\\BooksApi\\BooksApi\\obj\\",
+        "projectPath": "C:\\Users\\ridwan ashir\\Desktop\\Practice\\dotnet\\WebApi\\BooksApi\\BooksApi\\BooksApi.csproj",
+        "packagesPath": "C:\\Users\\ridwan ashir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ridwan ashir\\Desktop\\Practice\\dotnet\\WebApi\\BooksApi\\BooksApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\aashir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ridwan ashir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,8 +65,20 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.22, 3.1.22]"
+              "version": "[3.1.25, 3.1.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
             }
           ],
           "frameworkReferences": {
@@ -77,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

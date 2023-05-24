@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aashir\\Desktop\\-\\consapp\\ConsApp.csproj": {}
+    "C:\\Users\\ridwan ashir\\Desktop\\Practice\\dotnet\\ConsoleApp\\ConsApp\\ConsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aashir\\Desktop\\-\\consapp\\ConsApp.csproj": {
+    "C:\\Users\\ridwan ashir\\Desktop\\Practice\\dotnet\\ConsoleApp\\ConsApp\\ConsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aashir\\Desktop\\-\\consapp\\ConsApp.csproj",
+        "projectUniqueName": "C:\\Users\\ridwan ashir\\Desktop\\Practice\\dotnet\\ConsoleApp\\ConsApp\\ConsApp.csproj",
         "projectName": "ConsApp",
-        "projectPath": "C:\\Users\\aashir\\Desktop\\-\\consapp\\ConsApp.csproj",
-        "packagesPath": "C:\\Users\\aashir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aashir\\Desktop\\-\\consapp\\obj\\",
+        "projectPath": "C:\\Users\\ridwan ashir\\Desktop\\Practice\\dotnet\\ConsoleApp\\ConsApp\\ConsApp.csproj",
+        "packagesPath": "C:\\Users\\ridwan ashir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ridwan ashir\\Desktop\\Practice\\dotnet\\ConsoleApp\\ConsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\aashir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ridwan ashir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

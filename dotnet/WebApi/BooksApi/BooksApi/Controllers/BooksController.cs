@@ -12,7 +12,7 @@ namespace BooksApi.Controllers
         public BooksController(BookService bookService)
         {
             _bookService = bookService;
-        }
+        } 
         [HttpGet]
         public ActionResult<List<Book>> Get() =>
 _bookService.Get();

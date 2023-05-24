@@ -188,48 +188,48 @@ namespace TodoApi.Controllers
 	/// <returns>A newly created TodoItem</returns>
 //	/// <response code="201">Returns the newly created item</response>
 //	/// <response code="400">If the item is null</response>
-    [HttpPost]
-    [ProducesResponseType(StatusCodes.Status201Created)]
-	[ProducesResponseType(StatusCodes.Status400BadRequest)]
-	public async Task<ActionResult<TodoItemDTO>> CreateTodoItem(TodoItemDTO todoItemDTO)
-    {
-        var todoItem = new TodoItem
+        [HttpPost]
+        [ProducesResponseType(StatusCodes.Status201Created)]
+	    [ProducesResponseType(StatusCodes.Status400BadRequest)]
+	    public async Task<ActionResult<TodoItemDTO>> CreateTodoItem(TodoItemDTO todoItemDTO)
         {
-            IsComplete = todoItemDTO.IsComplete,
-            Name = todoItemDTO.Name
-        };
-        _context.TodoItems.Add(todoItem);
-        await _context.SaveChangesAsync();
+            var todoItem = new TodoItem
+            {
+                IsComplete = todoItemDTO.IsComplete,
+                Name = todoItemDTO.Name
+            };
+            _context.TodoItems.Add(todoItem);
+            await _context.SaveChangesAsync();
 
-        return CreatedAtAction(nameof(GetTodoItem), new { id = todoItem.Id }, ItemToDTO(todoItem));
-    }
-    // DELETE: api/TodoItems/5
-	/// <summary>
-	/// Deletes a specific TodoItem.
-	/// </summary>
-	/// <param name="id"></param>
-    [HttpDelete("{id}")]
-    public async Task<IActionResult> DeleteTodoItem(long id)
-    {
-        var todoItem = await _context.TodoItems.FindAsync(id);
-        if (todoItem == null)
-        {
-            return NotFound();
+            return CreatedAtAction(nameof(GetTodoItem), new { id = todoItem.Id }, ItemToDTO(todoItem));
         }
-        _context.TodoItems.Remove(todoItem);
-        await _context.SaveChangesAsync();
-        return NoContent();
-    }
-    private bool TodoItemExists(long id)
-    {
-        return _context.TodoItems.Any(e => e.Id == id);
-    }
-    private static TodoItemDTO ItemToDTO(TodoItem todoItem) =>
-    new TodoItemDTO()
-    {
-        Id = todoItem.Id,
-        Name = todoItem.Name,
-        IsComplete = todoItem.IsComplete
-    };
+        // DELETE: api/TodoItems/5
+	    /// <summary>
+	    /// Deletes a specific TodoItem.
+	    /// </summary>
+	    /// <param name="id"></param>
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteTodoItem(long id)
+        {
+            var todoItem = await _context.TodoItems.FindAsync(id);
+            if (todoItem == null)
+            {
+                return NotFound();
+            }
+            _context.TodoItems.Remove(todoItem);
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+        private bool TodoItemExists(long id)
+        {
+            return _context.TodoItems.Any(e => e.Id == id);
+        }
+        private static TodoItemDTO ItemToDTO(TodoItem todoItem) =>
+        new TodoItemDTO()
+        {
+            Id = todoItem.Id,
+            Name = todoItem.Name,
+            IsComplete = todoItem.IsComplete
+        };
     }
 }
