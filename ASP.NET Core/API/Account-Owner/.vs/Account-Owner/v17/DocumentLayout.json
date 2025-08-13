@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{400CB64C-70A9-4485-B6F1-690E451C594E}|AccountOwnerServer\\AccountOwnerServer.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\accountownerserver\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400CB64C-70A9-4485-B6F1-690E451C594E}|AccountOwnerServer\\AccountOwnerServer.csproj|solutionrelative:accountownerserver\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400CB64C-70A9-4485-B6F1-690E451C594E}|AccountOwnerServer\\AccountOwnerServer.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\accountownerserver\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400CB64C-70A9-4485-B6F1-690E451C594E}|AccountOwnerServer\\AccountOwnerServer.csproj|solutionrelative:accountownerserver\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\datatransferobjects\\_accountbasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\_accountbasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\datatransferobjects\\accountupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\accountupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400CB64C-70A9-4485-B6F1-690E451C594E}|AccountOwnerServer\\AccountOwnerServer.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\accountownerserver\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400CB64C-70A9-4485-B6F1-690E451C594E}|AccountOwnerServer\\AccountOwnerServer.csproj|solutionrelative:accountownerserver\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\datatransferobjects\\_ownerbasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\_ownerbasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\datatransferobjects\\accountcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\accountcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\datatransferobjects\\ownercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\ownercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A13D248-BC1E-4232-A178-40482CB6B1D4}|Repository\\Repository.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A13D248-BC1E-4232-A178-40482CB6B1D4}|Repository\\Repository.csproj|solutionrelative:repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A13D248-BC1E-4232-A178-40482CB6B1D4}|Repository\\Repository.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\repository\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A13D248-BC1E-4232-A178-40482CB6B1D4}|Repository\\Repository.csproj|solutionrelative:repository\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\datatransferobjects\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\datatransferobjects\\accountofownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\accountofownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\datatransferobjects\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\datatransferobjects\\ownerwithaccountsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\ownerwithaccountsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\entities\\datatransferobjects\\ownerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15CDB9C-2FAC-43CB-A342-DC14291191A1}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\ownerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400CB64C-70A9-4485-B6F1-690E451C594E}|AccountOwnerServer\\AccountOwnerServer.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\accountownerserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400CB64C-70A9-4485-B6F1-690E451C594E}|AccountOwnerServer\\AccountOwnerServer.csproj|solutionrelative:accountownerserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC7ACB5-1D23-4D1D-9B4C-5E9DEC282CFD}|Contracts\\Contracts.csproj|c:\\users\\-\\desktop\\code maze\\asp.net core\\api\\account-owner\\contracts\\iaccountrepository.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEC7ACB5-1D23-4D1D-9B4C-5E9DEC282CFD}|Contracts\\Contracts.csproj|solutionrelative:contracts\\iaccountrepository.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 158,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\AccountOwnerServer\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "AccountOwnerServer\\Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\AccountOwnerServer\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "AccountOwnerServer\\Controllers\\OwnerController.cs",
+              "ViewState": "AgIAAJ0AAAAAzszMzEwvwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T08:34:19.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OwnerCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\OwnerCreationDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\OwnerCreationDto.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\OwnerCreationDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\OwnerCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:45:34.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ownerBaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\_ownerBaseDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\_ownerBaseDto.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\_ownerBaseDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\_ownerBaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:50:24.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\AccountOwnerServer\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AccountOwnerServer\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\AccountOwnerServer\\MappingProfile.cs",
+              "RelativeToolTip": "AccountOwnerServer\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:54:07.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Repository\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OwnerRepository.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Repository\\OwnerRepository.cs",
+              "RelativeToolTip": "Repository\\OwnerRepository.cs",
+              "ViewState": "AgIAAAoAAADALTMzMzMrwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:24:04.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\Models\\Owner.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Owner.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\Models\\Owner.cs",
+              "RelativeToolTip": "Entities\\Models\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:42:32.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OwnerDto.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\OwnerDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\OwnerDto.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\OwnerDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\OwnerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:45:01.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OwnerWithAccountsDto.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\OwnerWithAccountsDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\OwnerWithAccountsDto.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\OwnerWithAccountsDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\OwnerWithAccountsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:33:00.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OwnerUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\OwnerUpdateDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\OwnerUpdateDto.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\OwnerUpdateDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\OwnerUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:45:25.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\AccountOwnerServer\\Program.cs",
+              "RelativeDocumentMoniker": "AccountOwnerServer\\Program.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\AccountOwnerServer\\Program.cs",
+              "RelativeToolTip": "AccountOwnerServer\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:20:44.561Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\AccountOwnerServer\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AccountOwnerServer\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\AccountOwnerServer\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AccountOwnerServer\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:23:48.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_accountBaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\_accountBaseDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\_accountBaseDto.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\_accountBaseDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\_accountBaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:49:05.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\AccountCreationDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\AccountCreationDto.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\AccountCreationDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\AccountCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:46:16.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\AccountUpdateDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\AccountUpdateDto.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\AccountUpdateDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\AccountUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:44:40.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\Models\\Account.cs",
+              "RelativeToolTip": "Entities\\Models\\Account.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:41:20.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "Repository\\AccountRepository.cs",
+              "ViewState": "AgIAAAYAAAAwZmZmZqpkwCEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:25:50.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\AccountDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\AccountDto.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\AccountDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\AccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:50:56.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountOfOwnerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\AccountOfOwnerDTO.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\AccountOfOwnerDTO.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Entities\\DataTransferObjects\\AccountOfOwnerDTO.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\AccountOfOwnerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:54:01.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Contracts\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Contracts\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\code maze\\ASP.NET Core\\API\\Account-Owner\\Contracts\\IAccountRepository.cs",
+              "RelativeToolTip": "Contracts\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:45:59.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

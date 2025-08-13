@@ -1,0 +1,17 @@
+C:\Users\-\source\repos\Account-Owner\Repository\bin\Debug\net9.0\Repository.deps.json
+C:\Users\-\source\repos\Account-Owner\Repository\bin\Debug\net9.0\Repository.dll
+C:\Users\-\source\repos\Account-Owner\Repository\bin\Debug\net9.0\Repository.pdb
+C:\Users\-\source\repos\Account-Owner\Repository\bin\Debug\net9.0\Contracts.dll
+C:\Users\-\source\repos\Account-Owner\Repository\bin\Debug\net9.0\Entities.dll
+C:\Users\-\source\repos\Account-Owner\Repository\bin\Debug\net9.0\Contracts.pdb
+C:\Users\-\source\repos\Account-Owner\Repository\bin\Debug\net9.0\Entities.pdb
+C:\Users\-\source\repos\Account-Owner\Repository\obj\Debug\net9.0\Repository.csproj.AssemblyReference.cache
+C:\Users\-\source\repos\Account-Owner\Repository\obj\Debug\net9.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\source\repos\Account-Owner\Repository\obj\Debug\net9.0\Repository.AssemblyInfoInputs.cache
+C:\Users\-\source\repos\Account-Owner\Repository\obj\Debug\net9.0\Repository.AssemblyInfo.cs
+C:\Users\-\source\repos\Account-Owner\Repository\obj\Debug\net9.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\-\source\repos\Account-Owner\Repository\obj\Debug\net9.0\Repository.csproj.Up2Date
+C:\Users\-\source\repos\Account-Owner\Repository\obj\Debug\net9.0\Repository.dll
+C:\Users\-\source\repos\Account-Owner\Repository\obj\Debug\net9.0\refint\Repository.dll
+C:\Users\-\source\repos\Account-Owner\Repository\obj\Debug\net9.0\Repository.pdb
+C:\Users\-\source\repos\Account-Owner\Repository\obj\Debug\net9.0\ref\Repository.dll

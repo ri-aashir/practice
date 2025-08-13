@@ -1,0 +1,15 @@
+C:\Users\-\source\repos\Account-Owner\Contracts\bin\Debug\net9.0\Contracts.deps.json
+C:\Users\-\source\repos\Account-Owner\Contracts\bin\Debug\net9.0\Contracts.dll
+C:\Users\-\source\repos\Account-Owner\Contracts\bin\Debug\net9.0\Contracts.pdb
+C:\Users\-\source\repos\Account-Owner\Contracts\obj\Debug\net9.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\source\repos\Account-Owner\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\-\source\repos\Account-Owner\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfo.cs
+C:\Users\-\source\repos\Account-Owner\Contracts\obj\Debug\net9.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\-\source\repos\Account-Owner\Contracts\obj\Debug\net9.0\Contracts.dll
+C:\Users\-\source\repos\Account-Owner\Contracts\obj\Debug\net9.0\refint\Contracts.dll
+C:\Users\-\source\repos\Account-Owner\Contracts\obj\Debug\net9.0\Contracts.pdb
+C:\Users\-\source\repos\Account-Owner\Contracts\obj\Debug\net9.0\ref\Contracts.dll
+C:\Users\-\source\repos\Account-Owner\Contracts\bin\Debug\net9.0\Entities.dll
+C:\Users\-\source\repos\Account-Owner\Contracts\bin\Debug\net9.0\Entities.pdb
+C:\Users\-\source\repos\Account-Owner\Contracts\obj\Debug\net9.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\-\source\repos\Account-Owner\Contracts\obj\Debug\net9.0\Contracts.csproj.Up2Date
