@@ -1,31 +1,52 @@
 {
-  "hash": "0991a521",
-  "configHash": "4c50996d",
-  "lockfileHash": "72ecbc4f",
-  "browserHash": "286bce2d",
+  "hash": "9a9c44a0",
+  "configHash": "7e2973d3",
+  "lockfileHash": "02a85b57",
+  "browserHash": "348c869d",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "cf2e9859",
+      "fileHash": "cf783e01",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "5a8f2ccf",
+      "fileHash": "da3eb659",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "3c37a0aa",
+      "fileHash": "ad7158a1",
+      "needsInterop": false
+    },
+    "ngx-bootstrap/collapse": {
+      "src": "../../../../../../node_modules/ngx-bootstrap/collapse/fesm2022/ngx-bootstrap-collapse.mjs",
+      "file": "ngx-bootstrap_collapse.js",
+      "fileHash": "5124ab62",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
+      "file": "@angular_platform-browser_animations.js",
+      "fileHash": "f6cdf0c7",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-CPLJQRTQ": {
-      "file": "chunk-CPLJQRTQ.js"
+    "chunk-A5IAT7SU": {
+      "file": "chunk-A5IAT7SU.js"
+    },
+    "chunk-HJKI4BAF": {
+      "file": "chunk-HJKI4BAF.js"
+    },
+    "chunk-3ZITP342": {
+      "file": "chunk-3ZITP342.js"
+    },
+    "chunk-ZUIWVF26": {
+      "file": "chunk-ZUIWVF26.js"
     },
     "chunk-QE7GUPV5": {
       "file": "chunk-QE7GUPV5.js"
