@@ -1,52 +1,64 @@
 {
-  "hash": "9a9c44a0",
-  "configHash": "7e2973d3",
+  "hash": "6fc3d980",
+  "configHash": "405f0454",
   "lockfileHash": "02a85b57",
-  "browserHash": "348c869d",
+  "browserHash": "5f086e57",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "cf783e01",
+      "fileHash": "c656e9b5",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "da3eb659",
+      "fileHash": "852399d4",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "ad7158a1",
+      "fileHash": "cc314f09",
       "needsInterop": false
     },
     "ngx-bootstrap/collapse": {
       "src": "../../../../../../node_modules/ngx-bootstrap/collapse/fesm2022/ngx-bootstrap-collapse.mjs",
       "file": "ngx-bootstrap_collapse.js",
-      "fileHash": "5124ab62",
+      "fileHash": "139f35ac",
       "needsInterop": false
     },
     "@angular/platform-browser/animations": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
       "file": "@angular_platform-browser_animations.js",
-      "fileHash": "f6cdf0c7",
+      "fileHash": "e1652b81",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "ea71742a",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-A5IAT7SU": {
-      "file": "chunk-A5IAT7SU.js"
+    "chunk-5CQX5L2N": {
+      "file": "chunk-5CQX5L2N.js"
     },
-    "chunk-HJKI4BAF": {
-      "file": "chunk-HJKI4BAF.js"
+    "chunk-QDVZUSXR": {
+      "file": "chunk-QDVZUSXR.js"
+    },
+    "chunk-VOYJYWIM": {
+      "file": "chunk-VOYJYWIM.js"
     },
     "chunk-3ZITP342": {
       "file": "chunk-3ZITP342.js"
     },
-    "chunk-ZUIWVF26": {
-      "file": "chunk-ZUIWVF26.js"
+    "chunk-ONCL4FH2": {
+      "file": "chunk-ONCL4FH2.js"
+    },
+    "chunk-DBQVMHQU": {
+      "file": "chunk-DBQVMHQU.js"
     },
     "chunk-QE7GUPV5": {
       "file": "chunk-QE7GUPV5.js"
