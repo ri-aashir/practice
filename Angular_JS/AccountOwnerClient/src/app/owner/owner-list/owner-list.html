@@ -16,7 +16,8 @@
           </tr>
         </thead>
         <tbody>
-          <tr *ngFor="let owner of owners">
+          @for (owner of owners; track $index) {
+            <tr>
             <td>{{owner.name}}</td>
             <td>{{owner.address}}</td>
             <td>{{owner.dateOfBirth | date: 'dd/MM/yyyy'}}</td>
@@ -24,6 +25,7 @@
             <td><button type="button" id="update" class="btn btn-success">Update</button></td>
             <td><button type="button" id="delete" class="btn btn-danger">Delete</button></td>
           </tr>
+          }
         </tbody>
       </table>
     </div>

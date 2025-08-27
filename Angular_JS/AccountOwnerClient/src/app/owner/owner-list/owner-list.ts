@@ -2,10 +2,11 @@ import { Component, OnInit } from '@angular/core';
 
 import { Owner } from '../../_interfaces/owner.model';
 import { OwnerRepository } from './../../shared/services/owner-repository';
+import { DatePipe } from '@angular/common';
 
 @Component({
   selector: 'app-owner-list',
-  imports: [],
+  imports: [DatePipe],
   templateUrl: './owner-list.html',
   styleUrl: './owner-list.css'
 })
