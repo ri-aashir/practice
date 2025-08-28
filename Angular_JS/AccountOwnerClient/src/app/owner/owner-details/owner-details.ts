@@ -5,10 +5,11 @@ import { Router, ActivatedRoute } from '@angular/router';
 import { OwnerRepository } from './../../shared/services/owner-repository';
 import { ErrorHandler } from './../../shared/services/error-handler';
 import { DatePipe } from '@angular/common';
+import { OwnerAccounts } from './owner-accounts/owner-accounts';
 
 @Component({
   selector: 'app-owner-details',
-  imports: [ DatePipe ],
+  imports: [ DatePipe, OwnerAccounts ],
   templateUrl: './owner-details.html',
   styleUrls: ['./owner-details.css']
 })
