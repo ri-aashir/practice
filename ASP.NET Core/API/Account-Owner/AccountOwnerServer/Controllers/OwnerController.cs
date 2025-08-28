@@ -25,6 +25,10 @@ namespace AccountOwnerServer.Controllers
         [HttpGet]
         public IActionResult GetAllOwners()
         {
+            // to test error-handling in client application
+            // return NotFound();
+            return StatusCode(500, "Some message");
+
             try
             {
                 var owners = _repository.Owner.GetAllOwners();
