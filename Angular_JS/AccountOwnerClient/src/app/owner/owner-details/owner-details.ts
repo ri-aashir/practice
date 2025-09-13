@@ -1,5 +1,5 @@
 import { HttpErrorResponse } from '@angular/common/http';
-import { Component, OnInit } from '@angular/core';
+import { ChangeDetectorRef, Component, OnInit } from '@angular/core';
 import { Owner } from './../../_interfaces/owner.model';
 import { Router, ActivatedRoute } from '@angular/router';
 import { OwnerRepository } from './../../shared/services/owner-repository';
@@ -18,7 +18,8 @@ export class OwnerDetails implements OnInit {
   errorMessage: string = '';
 
   constructor(private repository: OwnerRepository, private router: Router, 
-              private activeRoute: ActivatedRoute, private errorHandler: ErrorHandler) { }
+              private activeRoute: ActivatedRoute, private errorHandler: ErrorHandler,
+              private cds: ChangeDetectorRef) { }
 
   ngOnInit() {
     this.getOwnerDetails()
@@ -30,7 +31,10 @@ export class OwnerDetails implements OnInit {
 
     this.repository.getOwner(apiUrl)
     .subscribe({
-      next: (own: Owner) => this.owner = own,
+      next: (own: Owner) => {
+        this.owner = own;
+        this.cds.detectChanges();
+      },
       error: (err: HttpErrorResponse) => {
         this.errorHandler.handleError(err);
         this.errorMessage = this.errorHandler.errorMessage;

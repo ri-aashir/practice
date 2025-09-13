@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { ChangeDetectorRef, Component, OnInit } from '@angular/core';
 
 import { Owner } from '../../_interfaces/owner.model';
 import { OwnerRepository } from './../../shared/services/owner-repository';
@@ -17,7 +17,7 @@ export class OwnerList implements OnInit {
   owners: Owner[];
   errorMessage: string = '';
 
-  constructor(private repository: OwnerRepository, private errorHandler: ErrorHandler, private router: Router) { }
+  constructor(private repository: OwnerRepository, private errorHandler: ErrorHandler, private router: Router, private cdr: ChangeDetectorRef) { }
 
   ngOnInit(): void {
     this.getAllOwners();
@@ -27,7 +27,11 @@ export class OwnerList implements OnInit {
     const apiAddress: string = 'api/owner';
     this.repository.getOwners(apiAddress)
     .subscribe({
-      next: (own: Owner[]) => this.owners = own,
+      //next: (own: Owner[]) => this.owners = own,
+      next: (own: Owner[]) => {
+        this.owners = own;
+        this.cdr.detectChanges();
+      },
       error: (err: HttpErrorResponse) => {
         this.errorHandler.handleError(err);
         this.errorMessage = this.errorHandler.errorMessage;
