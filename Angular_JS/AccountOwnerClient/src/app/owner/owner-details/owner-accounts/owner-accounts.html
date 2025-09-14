@@ -11,7 +11,7 @@
         </thead>
         <tbody>
           @for (account of accounts; track $index) {
-            <tr>
+            <tr (click)="onAccountClicked(account)">
             <td>{{account?.accountType}}</td>
             <td>{{account?.dateCreated | date: 'dd/MM/yyyy'}}</td>
           </tr>

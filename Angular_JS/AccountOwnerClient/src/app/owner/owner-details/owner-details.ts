@@ -6,6 +6,7 @@ import { OwnerRepository } from './../../shared/services/owner-repository';
 import { ErrorHandler } from './../../shared/services/error-handler';
 import { DatePipe } from '@angular/common';
 import { OwnerAccounts } from './owner-accounts/owner-accounts';
+import { Account } from '../../_interfaces/account.model';
 
 @Component({
   selector: 'app-owner-details',
@@ -40,6 +41,10 @@ export class OwnerDetails implements OnInit {
         this.errorMessage = this.errorHandler.errorMessage;
       }
     })
+  }
+
+  printToConsole = (param: Account) => {
+  console.log('Account parameter from the child component', param)
   }
 
 }
