@@ -3,7 +3,7 @@ import {
   sequence,
   style
 } from "./chunk-3ZITP342.js";
-import "./chunk-IQRGITXN.js";
+import "./chunk-5DKQA4L4.js";
 import "./chunk-DBQVMHQU.js";
 import {
   ANIMATION_MODULE_TYPE,
@@ -31,7 +31,7 @@ import {
   ɵɵdefineNgModule,
   ɵɵdirectiveInject,
   ɵɵinject
-} from "./chunk-QE7GUPV5.js";
+} from "./chunk-J662IKQS.js";
 
 // node_modules/@angular/animations/fesm2022/animations.mjs
 var AnimationBuilder = class _AnimationBuilder {

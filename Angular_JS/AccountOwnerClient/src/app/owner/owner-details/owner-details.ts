@@ -7,10 +7,11 @@ import { ErrorHandler } from './../../shared/services/error-handler';
 import { DatePipe } from '@angular/common';
 import { OwnerAccounts } from './owner-accounts/owner-accounts';
 import { Account } from '../../_interfaces/account.model';
+import { Append } from '../../shared/directives/append';
 
 @Component({
   selector: 'app-owner-details',
-  imports: [ DatePipe, OwnerAccounts ],
+  imports: [ DatePipe, OwnerAccounts, Append ],
   templateUrl: './owner-details.html',
   styleUrls: ['./owner-details.css']
 })
