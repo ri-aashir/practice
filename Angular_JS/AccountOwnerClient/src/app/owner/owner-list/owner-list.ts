@@ -5,11 +5,11 @@ import { OwnerRepository } from './../../shared/services/owner-repository';
 import { DatePipe } from '@angular/common';
 import { ErrorHandler } from './../../shared/services/error-handler';
 import { HttpErrorResponse } from '@angular/common/http';
-import { Router } from '@angular/router';
+import { Router, RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-owner-list',
-  imports: [DatePipe],
+  imports: [DatePipe, RouterLink],
   templateUrl: './owner-list.html',
   styleUrl: './owner-list.css'
 })
