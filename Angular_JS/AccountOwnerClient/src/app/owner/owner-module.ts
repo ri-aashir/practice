@@ -6,6 +6,7 @@ import { SharedModule } from '../shared/shared-module';
 import { ReactiveFormsModule } from '@angular/forms';
 import { OwnerCreate } from './owner-create/owner-create';
 import { BsDatepickerModule } from 'ngx-bootstrap/datepicker';
+import { ModalModule } from 'ngx-bootstrap/modal';
 
 
 @NgModule({

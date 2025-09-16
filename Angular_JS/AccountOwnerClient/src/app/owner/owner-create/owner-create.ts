@@ -9,6 +9,7 @@ import { Owner } from './../../../../src/app/_interfaces/owner.model';
 import { HttpErrorResponse } from '@angular/common/http';
 import { OwnerForCreation } from './../../../../src/app/_interfaces/ownerCreationModel';
 import { ModalOptions, BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
+import { ErrorModal } from '../../shared/modals/error-modal/error-modal';
 
 @Component({
   selector: 'app-owner-create',
@@ -76,6 +77,15 @@ export class OwnerCreate implements OnInit {
       error: (err: HttpErrorResponse) => {
           this.errorHandler.handleError(err);
           this.errorMessage = this.errorHandler.errorMessage;
+
+          const config: ModalOptions = {
+          initialState: {
+            modalHeaderText: 'Error Message',
+            modalBodyText: this.errorMessage,
+            okButtonText: 'OK'
+          }
+        };
+        this.modal.show(ErrorModal, config);
       }
     })
   }
