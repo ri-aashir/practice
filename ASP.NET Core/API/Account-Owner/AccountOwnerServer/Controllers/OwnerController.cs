@@ -25,9 +25,9 @@ namespace AccountOwnerServer.Controllers
         [HttpGet]
         public IActionResult GetAllOwners()
         {
-            // to test error-handling in client application
+            // :to test error-handling in client application
             // return NotFound();
-            return StatusCode(500, "Some message");
+            // return StatusCode(500, "Some message");
 
             try
             {
@@ -102,6 +102,9 @@ namespace AccountOwnerServer.Controllers
         [HttpPost]
         public IActionResult CreateOwner([FromBody] OwnerCreationDto owner)
         {
+            // :to test ErrorModal Component through HandleOtherErrors in error-handler service in client app (angular)
+            // return BadRequest("Bad request from the server while creating owner");
+
             try
             {
                 if (owner is null)
